@@ -1,5 +1,7 @@
 # Simple calculator based on Mac OS calculator
 
+![Simple calculator](https://i.ibb.co/LPmH4CV/calculator.gif)
+
 ## Tools used
 
 - React (Hooks)
